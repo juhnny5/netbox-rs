@@ -1,11 +1,10 @@
 [package]
-name = "netbox_rs"
-version = "0.0.1"
-authors = ["Julien Briault <dev@jbriault.fr>"]
-edition = "2021"
-repository = "https://github.com/juhnny5/netbox-rs"
-license = "Apache-2.0"
-readme = "README.md"
+name = "netbox-rs"
+version = "3.4"
+authors = ["OpenAPI Generator team and contributors"]
+description = "API to access NetBox"
+license = "Apache v2 License"
+edition = "2018"
 
 [dependencies]
 serde = "^1.0"
