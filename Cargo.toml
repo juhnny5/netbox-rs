@@ -1,6 +1,6 @@
 [package]
 name = "netbox-rs"
-version = "3.4"
+version = "0.1.0"
 authors = ["OpenAPI Generator team and contributors"]
 description = "API to access NetBox"
 license = "Apache v2 License"
